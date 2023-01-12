@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">WorkoutApp</string>
+    <string name="bullted_list"><b><big></big></b>
+        \n <li>Lie on the bench with your eyes under the bar.</li>
+        \n <li>Grab the bar with a medium grip-width.</li>
+        \n <li>Unrack the bar by straightening your arms.</li>
+       \n <li>Lower the bar to your mid-chest.</li>
+        \n<li>Press the bar back up until your arms are straight.</li>
+
+    </string>
+    <string name="fly"><b><big></big></b>
+        \n <li>Choose weights that allow you to maintain proper form</li>
+        \n <li>Lie on an exercise mat to do floor flies.</li>
+        \n <li>Use a flat bench for more range of motion doing lying chest flies. </li>
+       \n <li>Do standing dumbbell flies. </li>
+        \n <li>Adjust your bench to a 45-degree angle to do inclined flies</li>
+
+    </string>
+
+    <string name="barbellcurls1"><b><big></big></b>
+        \n <li>Stand up with your torso upright while holding a barbell at a shoulder-width grip</li>
+        \n <li> curl the weights forward while contracting the biceps as you breathe out.</li>
+        \n <li>Continue the movement until your biceps are fully contracted and the bar is at shoulder level.</li>
+       \n <li>Slowly begin to bring the bar back to starting position as your breathe in.</li>
+         \n <li>Repeat for the recommended amount of repetitions.</li>
+
+    </string>
+
+    <string name="crunches1"><b><big></big></b>
+        \n <li>Lie on your back with your knees bent and feet flat on the floor, hip-width apart.</li>
+        \n <li>Place your hands behind your head so your thumbs are behind your ears.</li>
+        \n <li>Hold your elbows out to the sides but rounded slightly in.</li>
+       \n <li>Tilt your chin slightly, leaving a few inches of space between your chin and your chest.</li>
+        \n <li>Gently pull your abdominals inward.</li>
+    </string>
+
+    <string name="deadlift1"><b><big></big></b>
+        \n <li>Stand with your mid-foot under the barbelL</li>
+        \n <li>Bend over and grab the bar with a shoulder-width grip</li>
+        \n <li>Bend your knees until your shins touch the bar</li>
+       \n <li>Lift your chest up and straighten your lower back</li>
+           \n <li>Take a big breath, hold it, and stand up with the weight</li>
+
+    </string>
+
+    <string name="elliptical1"><b><big></big></b>
+        \n <li>Step onto the machine facing the monitor</li>
+        \n <li>Begin pedaling to turn it on..</li>
+        \n <li>Start pedaling at an even pace..</li>
+       \n <li>Do not lock your knees.</li>
+        \n <li>Turn up the resistance</li>
+
+    </string>
+
+    <string name="hammercurls1"><b><big></big></b>
+        \n <li>Pick up the dumbbells. </li>
+        \n <li>Bend your elbows slightly.</li>
+        \n <li>Lift the dumbbell</li>
+       \n <li>Lift the dumbbells with your palms out. </li>
+
+    </string>
+
+    <string name="latpulldown1"><b><big></big></b>
+        \n <li>Sit at a lat pulldown station and grab the bar</li>
+        \n <li>Your arms should be completely straight and your torso upright.</li>
+        \n <li>ull your shoulder blades down and back</li>
+       \n <li>bring the bar to your chest</li>
+            \n <li>Pause, then slowly return to the starting position.</li>
+
+
+    </string>
+
+    <string name="lunges1"><b><big></big></b>
+        \n <li>Start in a standing position. </li>
+        \n <li>Take a big step forward with your right leg. </li>
+        \n <li>Lower your body until your right knee is at a 90-degree angle. </li>
+       \n <li>Push yourself upwards with your right foot. </li>
+        \n <li>Repeat the forward lunge.  </li>
+
+    </string>
+
+    <string name="plank1"><b><big></big></b>
+        \n <li> Position your elbows directly beneath your shoulders.</li>
+        \n <li>Make and maintain a straight body line from head to heels.</li>
+        \n <li>Squeeze your butt and the fronts of your thighs.</li>
+       \n <li>Brace your abs like you’re going to take a punch.</li>
+            \n <li>Advance the exercise.</li>
+
+    </string>
+
+    <string name="squats1"><b><big></big></b>
+        \n <li>Stand straight with feet hip-width apart</li>
+        \n <li>Tighten your stomach muscles.</li>
+        \n <li>Lower down, as if sitting</li>
+       \n <li>Straighten your legs</li>
+        \n <li>Repeat the movement</li>
+
+    </string>
+
+    <string name="treadmill1"><b><big></big></b>
+        \n <li>Warm up for 5 minutes. </li>
+        \n <li>Keep a pace between 3 and 4 mph (4.8 and 6.4 km/h) for 20 minutes</li>
+        \n <li>Cool down for 5 minutes, by slowly lowering your pace each minute.</li>
+       \n <li>Experiment with inclines and faster speeds after the first 1 to 2 weeks</li>
+
+    </string>
+</resources>
